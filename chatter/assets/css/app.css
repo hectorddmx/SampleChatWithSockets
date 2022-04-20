@@ -118,3 +118,11 @@
   0% { opacity: 1; }
   100% { opacity: 0; }
 }
+
+#message-list {
+  border: 1px solid #777;
+  height: 400px;
+  padding: 10px;
+  overflow: scroll;
+  margin-bottom: 50px;
+}
